@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thanhsonnguyen-gif
-- 👀 I’m interested in AI
+- 👀 I’m interested in knowledge of Web Development
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thanhson94.sci@gmail.com
